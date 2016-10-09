@@ -1,3 +1,5 @@
+# Get certain number of input based on a number and check for its divisibility by the second number
+
 x, y = raw_input().split()
 x = int(x)
 y = int(y)

@@ -1,3 +1,5 @@
+# display the remaining amount after withdrawal, by deducting the charge
+
 while 1:
     x, y = raw_input().split()
     x = float(x)
